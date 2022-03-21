@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kienct/Downloads/ToDoTask/ToDoTask/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1695" />
+        <entry key="..\:/Users/kienct/Downloads/ToDoTask/ToDoTask/app/src/main/res/drawable/shape_search_bg.xml" value="0.1805" />
+        <entry key="..\:/Users/kienct/Downloads/ToDoTask/ToDoTask/app/src/main/res/layout/activity_add_modify_task.xml" value="0.3375" />
+        <entry key="..\:/Users/kienct/Downloads/ToDoTask/ToDoTask/app/src/main/res/layout/activity_main.xml" value="0.3557582668187001" />
+        <entry key="..\:/Users/kienct/Downloads/ToDoTask/ToDoTask/app/src/main/res/layout/task_list_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
