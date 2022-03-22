@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
         loadDataList(upcoming, upcomingList);
 
 
-        if (todayList.isEmpty() && tomorrowList.isEmpty() && upcomingList.isEmpty() && etSearch.getVisibility() != View.VISIBLE) {
+        if (todayList.isEmpty() && tomorrowList.isEmpty() && upcomingList.isEmpty() && etSearch.getText().toString().equals("")) {
             empty.setVisibility(View.VISIBLE);
             scrollView.setVisibility(View.GONE);
             etSearch.setVisibility(View.GONE);
